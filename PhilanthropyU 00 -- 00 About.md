@@ -35,7 +35,7 @@ To earn a Certificate of Achievement for this course, you need to earn more than
 
 The University is a non-degree, diploma or credit granting initiative. Philanthropy U, Inc. is the concept developer and sponsor of the initiative. Learners are not entitled to earn college or other academic credit.
 
-![BerkeleyHaas](image/berkeley-haas-wordmark_blue.png)
+![BerkeleyHaas](images/berkeley-haas-wordmark_blue.png)
 
 BerkeleyHaas
 © 2018 Philanthropy U, Inc.
