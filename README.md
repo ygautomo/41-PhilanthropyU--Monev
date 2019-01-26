@@ -1,7 +1,9 @@
-# 37-Harvard-CS50--Web-Python-and-JavaScript
-## CS50's Web Programming with Python and JavaScript
-### Provided by Harvard University (HarvardX)
+# 41-PhilanthropyU--Monev
+## PhilanthropyU -- Planning for Monitoring and Evaluation
+### Provided by Philanthropy University
 
-This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap.
+ABOUT THIS M&E COURSE
 
-[37-Harvard-CS50--Web-Python-and-JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) 
+How will you measure your project’s success? This free online course will help you answer this question by introducing the basics of monitoring and evaluation (M&E). In this course, you will learn how successful projects plan for data collection, management, analysis, and use. As you complete the course assignments, you will create an M&E plan for your own project. Learners who complete this free online M&E course are eligible to receive a Certificate of Achievement through the Haas School of Business at the University of California, Berkeley (Berkeley Haas).
+
+[41 PhilanthropyU -- Planning for Monitoring and Evaluation](https://courses.philanthropyu.org/) 
