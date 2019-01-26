@@ -38,4 +38,5 @@ The University is a non-degree, diploma or credit granting initiative. Philanthr
 ![BerkeleyHaas](images/berkeley-haas-wordmark_blue.png)
 
 BerkeleyHaas
+
 © 2018 Philanthropy U, Inc.
