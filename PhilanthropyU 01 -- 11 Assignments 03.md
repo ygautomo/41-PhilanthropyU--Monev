@@ -15,7 +15,9 @@ Questions 2 and 3 provide important information about your project and organizat
 ## Open Response Assessment
 ### 1. YOUR RESPONSE
 due Feb. 17, 2019 23:59 UTC (in 3 weeks, 1 day)
+
 **A. Prompt for this section**
+
 To get credit for your work, follow the instructions below:
 1. For this assignment, you do NOT have to write anything in the box labeled "Your response."
 2. Click the small button labeled "Choose File" below. Select your completed worksheet.
