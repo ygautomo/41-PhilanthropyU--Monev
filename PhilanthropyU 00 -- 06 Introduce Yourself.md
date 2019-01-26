@@ -1,0 +1,2 @@
+# Introduce Yourself 
+If you have not posted on the course discussion forum already, take a moment to do so now! The course discussion forum allows you to chat and exchange ideas with your peers. You can respond to questions posed by the course team, or you can start your own thread to discuss other course-related topics or ask for help. 
