@@ -7,7 +7,7 @@ Your first assignment is to complete an Introduction Document for your M&E plan.
 Download the worksheet below to start this assignment. Delete all of the blue example text. When you’ve completed the worksheet, follow the instructions near the bottom of this page to upload your assignment. 
 Clock 45 minutes
 
-[Download Worksheet]("documents/PhilanthropyU 01 -- 11 ME 01- Introduction Document.pdf")
+[Download Worksheet](documents/PhilanthropyU01--11M 01-IntroductionDocument.pdf)
 
 *Note: Focus on answering question 1: What is the purpose of this M&E plan? 
 Questions 2 and 3 provide important information about your project and organization. Donors and partners will be very interested in the answers to these questions, so take some time preparing your responses. However, you will not be assessed on your responses to questions 2 and 3.*
