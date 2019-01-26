@@ -24,20 +24,15 @@ There are several steps to creating an M&E plan. Here is a look at the work we w
 Steps to setting up an M&E Plan
 ![Set up ME Plan](images/Setting+up+your+M&E+Plan.png)
 
-1. Know your project
+1. **Know your project**
  Your M&E plan is a set of tools that will help you measure progress towards your goals. That is why your first step is to understand exactly what those goals are. You will learn how to do this in Module 2. In this module, you will create a Logical Framework, also known as a Logframe.
-
-2. Choose your indicators
+2. **Choose your indicators**
  Indicators are the things that you measure. Sometimes your donors tell you what to measure and sometimes it is up to you, but typically it can be a bit of both. You will choose indicators in Module 3. In this module, you will create an Indicators Document.
-
-3. Decide how you will measure your indicators
+3. **Decide how you will measure your indicators**
  There are many ways to collect data, and you will have to choose our methods carefully. You will make these decisions in Module 4.
-
-4. Create tools
+4. **Create tools**
  Tools can be surveys on a computer or papers in a notebook. Either way, you will need to create your tools thoughtfully. You will create tools in Module 4. In this module, you will create a Participant Tracking Form.
-
-5. Define responsibilities
+5. **Define responsibilities**
  Collecting, managing, analyzing and using data will probably involve lots of people. You will decide who will do which tasks in Module 5. In this module, you will create a Roles and Responsibilities Chart and a Data Flow Map.
-
-6. Decide how data will be analyzed and used
+6. **Decide how data will be analyzed and used**
  Our final goal is to use our data to improve our project and to decide how successful it was. This is not a subject that we will be able to discuss fully in this course. However, you will begin to think about data analysis and use in Module 5.
