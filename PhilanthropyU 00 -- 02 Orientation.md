@@ -11,7 +11,7 @@ How will you measure your project’s success? This course will help you answer 
 - **Module 4**: Data Collection
 - **Module 5**: Roles and Responsibilities
 
-[View Syllabus]('documents/PhilanthropyU 00 -- 02 ME Training Syllabus.pdf')
+[Syllabus]('documents/PhilanthropyU 00 -- 02 ME Training Syllabus.pdf')
 
 ## COURSE SCHEDULE 
 ![Schedule](images/Course+Deadlines+M&E+Jan+19.png)
